@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\bin\Debug\netstandard2.0\BlockIncomingCall.deps.json
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\bin\Debug\netstandard2.0\BlockIncomingCall.dll
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\BlockIncomingCall.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\BlockIncomingCall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\BlockIncomingCall.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\BlockIncomingCall.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\bin\Debug\netstandard2.0\BlockIncomingCall.pdb
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\BlockIncomingCall.dll
+C:\Users\Admin\Desktop\BlockIncomingCall\BlockIncomingCall\BlockIncomingCall\obj\Debug\netstandard2.0\BlockIncomingCall.pdb

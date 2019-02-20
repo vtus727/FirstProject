@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BlockIncomingCall"
+             x:Class="BlockIncomingCall.MainPage">
+
+    <StackLayout>
+        <Label Text="BLACK LIST"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               FontSize="30"></Label>
+
+        <Entry x:Name="txtTen" Placeholder="Nhập tên" 
+               PlaceholderColor="Olive" />
+
+        <Entry x:Name="txtSDT" Placeholder="Nhập số điện thoại" 
+               PlaceholderColor="Olive" />
+
+        <Button Text="Thêm"
+                 x:Name="btnThem"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand"
+               Clicked ="OnButtonClicked" />
+        <Button Text="Xóa"
+                 x:Name="btnXoa"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand"
+               Clicked ="btnXoaClickAsync" />
+        
+
+
+        <ListView x:Name="listPerson"  >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding PersonName}" 
+                              Detail="{Binding Phone}"
+                              ></TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
